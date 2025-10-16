@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-yellow)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)
 
-## 📊 Project Overview
+## Project Overview
 
 This project analyzes demographic, educational, and socioeconomic factors to predict whether individuals in East African countries have access to cellphones - a key indicator of digital readiness and economic participation in modern East African societies.
 
@@ -24,14 +24,14 @@ Predicting digital readiness among East African populations is crucial for:
 
 Understanding digital readiness patterns helps policymakers and NGOs design effective interventions to increase technology adoption in underserved communities, promoting economic development and social inclusion.
 
-## 🔍 Data Description
+## Data Description
 
 The dataset contains demographic and socioeconomic information about individuals in East African countries, with the target variable being `cellphone_access` (whether an individual has access to a cellphone).
 
 ### Data Source
 Data is sourced from: [East-Africa-Digital-Readness-prediction GitHub Repository](https://github.com/Mugisha-isaac/East-Africa-Digital-Readness-prediction)
 
-## 🛠 Methodology
+## Methodology
 
 The project compares traditional machine learning algorithms with deep learning models to determine which approach provides the most accurate predictions for digital readiness.
 
@@ -54,7 +54,7 @@ The project compares traditional machine learning algorithms with deep learning 
 - F1-Score
 - ROC-AUC
 
-## 🚀 Project Structure
+## Project Structure
 
 1. **Setup and Installation**: Libraries and dependencies
 2. **Data Loading**: Loading and initial inspection of the dataset
@@ -64,11 +64,11 @@ The project compares traditional machine learning algorithms with deep learning 
 6. **Results Analysis**: Interpreting model performance
 7. **Conclusions & Recommendations**: Insights and implications
 
-## 📈 Key Findings
+## Key Findings
 
 The project reveals patterns of digital access across different demographic groups and compares the effectiveness of machine learning versus deep learning approaches for predicting digital readiness.
 
-## 💻 Requirements
+## Requirements
 
 - Python 3.x
 - pandas
@@ -80,7 +80,7 @@ The project reveals patterns of digital access across different demographic grou
 - xgboost
 - imbalanced-learn
 
-## 📋 How to Run
+## How to Run
 
 1. Clone this repository
 2. Install the required packages:
@@ -89,15 +89,15 @@ The project reveals patterns of digital access across different demographic grou
    ```
 3. Open and run the Jupyter Notebook `Summatives.ipynb`
 
-## 👨‍💻 Author
+## Author
 
 **Isaac MUGISHA**
 
-## 📅 Date
+## Date
 
 October 13, 2025
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
