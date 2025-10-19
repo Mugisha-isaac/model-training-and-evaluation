@@ -28,9 +28,6 @@ Identifying digitally-ready young individuals helps our platform connect talente
 
 The dataset contains demographic and socioeconomic information about individuals in East African countries, with the target variable being `cellphone_access` (whether an individual has access to a cellphone) - a critical requirement for using our talent platform.
 
-### Data Source
-Data is sourced from: [East-Africa-Digital-Readness-prediction GitHub Repository](https://github.com/Mugisha-isaac/East-Africa-Digital-Readness-prediction)
-
 ## Methodology
 
 The project compares traditional machine learning algorithms with deep learning models to identify young individuals with digital access who could potentially showcase their talents on our platform and connect with sponsors.
